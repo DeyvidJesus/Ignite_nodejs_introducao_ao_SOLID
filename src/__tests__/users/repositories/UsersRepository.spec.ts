@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { validate } from "uuid";
 
 import { UsersRepository } from "../../../modules/users/repositories/implementations/UsersRepository";
